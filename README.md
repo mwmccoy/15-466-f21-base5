@@ -1,18 +1,18 @@
-# (TODO: your game's title)
+# Hospital Mystery
 
-Author: (TODO: your name)
+Author: Woody McCoy
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: A walking simulator about exploring an abandoned hospital for clues about your life. This game was not actually made due to midterm season.
 
 Screen Shot:
 
-![Screen Shot](screenshot.png)
+![Screen Shot](screenshotDrawn.png)
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Move around with all 4 arrow keys. Enter to open a door, or inspect a nearby item. Find all the clues to end the game.
 
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: N/A
 
 This game was built with [NEST](NEST.md).
 
